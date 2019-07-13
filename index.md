@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to dewijohns' GitHub homepage
 
-You can use the [editor on GitHub](https://github.com/dewijohns/dewijohns.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Biography
+I am a Clinical Scientist working in Radiotherapy Physics, with a special interest in computing and information.  Like most physicists, I like to think I can code.  Hopefully, contributing to open source projects on GitHub will prove or disprove this, and allow me to learn along the way.  
+
+<!-- You can use the [editor on GitHub](https://github.com/dewijohns/dewijohns.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -34,4 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
